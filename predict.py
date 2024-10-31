@@ -36,7 +36,7 @@ def test_model(model_path, test_data_dir):
 
 
 # Đường dẫn đến mô hình và thư mục dữ liệu kiểm tra
-model_path = 'gesture_recognition_model(old).pkl'
+model_path = 'sift/sift_svm_probability.pkl'
 test_data_dir = 'data/valid/0'  # Thay đổi đường dẫn này thành thư mục chứa ảnh cần kiểm tra
 
 # Gọi hàm kiểm tra
